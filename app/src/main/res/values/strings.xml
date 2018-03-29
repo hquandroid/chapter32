@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapter3-2</string>
+    <string name="project_function">四种Activity加载模式功能演示</string>
+    <string name="standard_mode">Standard模式</string>
+    <string name="singleTop_mode">singleTop模式</string>
+    <string name="singleTask_mode">singleTask模式</string>
+    <string name="singleInstance_mode">singleInstance模式</string>
+</resources>
